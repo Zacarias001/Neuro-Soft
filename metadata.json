@@ -1,0 +1,8 @@
+
+{
+  "name": "MIR CONNECT NEXUS 2026",
+  "description": "Rede Social e Gestão Ministerial do Ministério Internacional Renascer. Integração total entre departamentos, gestão de servos, escalas e rede social interativa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
